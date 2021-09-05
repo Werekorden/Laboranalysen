@@ -1,5 +1,5 @@
 --- 
-title: "Laborbuch"
+title: "Laboranalysen"
 author: "Werekorden"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -12,4 +12,8 @@ site: bookdown::bookdown_site
 ## Kit HLA-DQ
 
 ### Haltbarkeit
+
+### Linearität
+
+### Limit of detection
 
