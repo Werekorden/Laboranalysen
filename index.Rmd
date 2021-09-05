@@ -5,5 +5,11 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Laborinfos
+
+#Kits
+
+## Kit HLA-DQ
+
+### Haltbarkeit
 
