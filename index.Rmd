@@ -1,5 +1,5 @@
 --- 
-title: "Laborbucg"
+title: "Laborbuch"
 author: "Werekorden"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
