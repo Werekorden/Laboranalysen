@@ -1,0 +1,8 @@
+#  HLA-DQ Kit
+
+## Haltbarkeitsaustestung
+
+## Linearitätsaustestung
+
+## Limit of detection
+

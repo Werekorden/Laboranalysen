@@ -6,14 +6,3 @@ site: bookdown::bookdown_site
 ---
 
 # Laborinfos
-
-#Kits
-
-## Kit HLA-DQ
-
-### Haltbarkeit
-
-### Linearität
-
-### Limit of detection
-
