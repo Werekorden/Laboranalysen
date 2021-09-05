@@ -6,3 +6,5 @@ site: bookdown::bookdown_site
 ---
 
 # Laborinfos
+Dieses Buch soll entweder für alle Kits zusammen die Technische Dokumentation abbilden oder nur für jeweils ein Kit. Je nach aufwand wird sich das noch ändern.
+
